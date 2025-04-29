@@ -25,4 +25,4 @@ Este projeto reflete os conceitos ensinados nos módulos focados em desenvolvime
 *   `LICENSE`: Licença MIT.
 *   `.gitignore`: Arquivo gitignore padrão para Node (gerado automaticamente).
 
-**Observação:** O código neste repositório é intencionalmente simples (apenas a estrutura básica do servidor e `package.json`), focando em demonstrar a configuração inicial de uma API Node/Express de forma concisa, conforme a solicitação de economia de recursos. Não inclui lógica de banco de dados ou rotas complexas.
+**Observação:** O código neste repositório é intencionalmente simples (apenas a estrutura básica do servidor e `package.json`), focando em demonstrar a configuração inicial de uma API Node/Express de forma concisa. Não inclui lógica de banco de dados ou rotas complexas.
