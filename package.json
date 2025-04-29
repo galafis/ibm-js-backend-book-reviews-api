@@ -1,0 +1,13 @@
+{
+  "name": "ibm-js-backend-book-reviews-api",
+  "version": "1.0.0",
+  "description": "Demonstração de Node.js, Express, APIs REST (IBM Full-Stack JS Cert)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1" 
+  },
+  "license": "MIT"
+}
