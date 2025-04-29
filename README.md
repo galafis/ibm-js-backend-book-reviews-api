@@ -1,6 +1,6 @@
 # Repositório: API de Avaliações de Livros (IBM Full-Stack JS)
 
-Este repositório demonstra as habilidades de desenvolvimento back-end com **Node.js** e **Express.js** adquiridas no programa **IBM Full-Stack JavaScript Developer Professional Certificate**.
+Este repositório,feito por mim,demonstra as habilidades de desenvolvimento back-end com **Node.js** e **Express.js** adquiridas no programa **IBM Full-Stack JavaScript Developer Professional Certificate**.
 
 ## Objetivo
 
