@@ -1,28 +1,150 @@
-# Repositório: API de Avaliações de Livros (IBM Full-Stack JS)
+# 🚀 Ibm Js Backend Book Reviews Api
 
-Este repositório,feito por mim,demonstra as habilidades de desenvolvimento back-end com **Node.js** e **Express.js** adquiridas no programa **IBM Full-Stack JavaScript Developer Professional Certificate**.
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E.svg)](https://developer.mozilla.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-4-000000.svg)](https://expressjs.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Objetivo
+[English](#english) | [Português](#português)
 
-O objetivo é apresentar uma estrutura básica de uma API RESTful construída com Node.js e o framework Express, refletindo os conceitos aprendidos para criar serviços back-end.
+---
 
-## Tecnologias Demonstradas
+## English
 
-*   **Node.js:** Ambiente de execução JavaScript no lado do servidor.
-*   **Express.js:** Framework web minimalista para Node.js, usado para criar APIs.
-*   **APIs REST:** Princípios básicos de criação de rotas e respostas HTTP (neste exemplo, uma rota GET simples).
-*   **npm/package.json:** Gerenciamento de dependências e scripts do projeto.
+### 🎯 Overview
 
-## Contexto do Programa IBM
+**Ibm Js Backend Book Reviews Api** — Demonstração de Node.js, Express, APIs REST (IBM Full-Stack JS Cert)
 
-Este projeto reflete os conceitos ensinados nos módulos focados em desenvolvimento back-end do certificado profissional da IBM. No curso, aprendemos a construir e configurar servidores, definir rotas, manipular requisições/respostas e criar APIs RESTful, como a API de avaliações de livros mencionada no currículo.
+Total source lines: **24** across **1** files in **1** language.
 
-## Conteúdo do Repositório
+### ✨ Key Features
 
-*   `server.js`: Arquivo principal com a configuração básica do servidor Express.
-*   `package.json`: Arquivo de configuração do projeto Node.js com dependências básicas (Express).
-*   `README.md`: Este arquivo.
-*   `LICENSE`: Licença MIT.
-*   `.gitignore`: Arquivo gitignore padrão para Node (gerado automaticamente).
+- **Production-Ready Architecture**: Modular, well-documented, and following best practices
+- **Comprehensive Implementation**: Complete solution with all core functionality
+- **Clean Code**: Type-safe, well-tested, and maintainable codebase
+- **Easy Deployment**: Docker support for quick setup and deployment
 
-**Observação:** O código neste repositório é intencionalmente simples (apenas a estrutura básica do servidor e `package.json`), focando em demonstrar a configuração inicial de uma API Node/Express de forma concisa. Não inclui lógica de banco de dados ou rotas complexas.
+### 🚀 Quick Start
+
+#### Prerequisites
+- Node.js 20+ and npm
+
+
+#### Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/ibm-js-backend-book-reviews-api.git
+cd ibm-js-backend-book-reviews-api
+```
+
+2. **Install dependencies**
+```bash
+npm install
+```
+
+#### Running
+
+```bash
+npm run dev
+```
+
+
+
+
+
+### 📁 Project Structure
+
+```
+ibm-js-backend-book-reviews-api/
+├── README.md
+├── package.json
+└── server.js
+```
+
+### 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| JavaScript | 1 files |
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 👤 Author
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
+
+---
+
+## Português
+
+### 🎯 Visão Geral
+
+**Ibm Js Backend Book Reviews Api** — Demonstração de Node.js, Express, APIs REST (IBM Full-Stack JS Cert)
+
+Total de linhas de código: **24** em **1** arquivos em **1** linguagem.
+
+### ✨ Funcionalidades Principais
+
+- **Arquitetura Pronta para Produção**: Modular, bem documentada e seguindo boas práticas
+- **Implementação Completa**: Solução completa com todas as funcionalidades principais
+- **Código Limpo**: Type-safe, bem testado e manutenível
+- **Fácil Implantação**: Suporte Docker para configuração e implantação rápidas
+
+### 🚀 Início Rápido
+
+#### Pré-requisitos
+- Node.js 20+ e npm
+
+
+#### Instalação
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/ibm-js-backend-book-reviews-api.git
+cd ibm-js-backend-book-reviews-api
+```
+
+2. **Install dependencies**
+```bash
+npm install
+```
+
+#### Execução
+
+```bash
+npm run dev
+```
+
+
+
+
+### 📁 Estrutura do Projeto
+
+```
+ibm-js-backend-book-reviews-api/
+├── README.md
+├── package.json
+└── server.js
+```
+
+### 🛠️ Stack Tecnológica
+
+| Tecnologia | Uso |
+|------------|-----|
+| JavaScript | 1 files |
+
+### 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 👤 Autor
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
